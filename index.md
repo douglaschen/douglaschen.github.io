@@ -1,7 +1,16 @@
-## douglas 博客
+## douglas 博客目录
+建立于2021.1.31
+
+### 为什么我没有进步，虽然我一直都很努力
+
+### 为什么我这么自卑
+
+### 为什么我不开心
+    一个人内在矛盾情绪的解决
+### 论工作与生活的平衡
+
 You can use the [editor on GitHub](https://github.com/douglaschen/douglaschen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
